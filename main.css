@@ -15,22 +15,22 @@ div {
 }
 
 #orange{
-  border-top-color: rgb(218, 113, 38);
+  border-top-color: #ffa500;
 }
 
 #yellow{
-  border-top-color: yellow;
+  border-top-color: #ff0;
 }
 #green{
-  border-top-color: green;
+  border-top-color: #00bc3f;
 }
-#lightblue{
-  border-top-color: rgb(57, 149, 180);
+#blue{
+  border-top-color: #06f;
 }
 #indigo{
-  border-top-color: indigo;
+  border-top-color:#8a2be2 ;
 }
   
 #violet{
-  border-top-color: violet;
+  border-top-color: #d300c9;
 }
